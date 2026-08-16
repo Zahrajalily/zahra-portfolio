@@ -6,7 +6,7 @@ Personal portfolio website built with HTML and CSS.
 
 You can visit my portfolio here:
 
-https://zahrajaily.github.io/zahra-portfolio/
+https://zahrajalily.github.io/zahra-portfolio/
 
 ## 🛠️ Technologies
 
